@@ -1,0 +1,24 @@
+{
+  "name": "benderquotes",
+  "version": "1.0.0",
+  "description": "Random Bender (Futurama) Quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devMateos/benderquotes.git"
+  },
+  "keywords": [],
+  "author": "Antonio Mateos Mariscal <contacto@antoniomateosmariscal.com",
+  "license": "MIT",
+  "homepage": "https://github.com/devMateos/benderquotes#readme",
+  "bin": {
+    "benderquotes": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
