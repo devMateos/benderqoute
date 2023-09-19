@@ -1,2 +1,2 @@
-# benderqoute
+# benderquotes
 Random Bender (Futurama) Quotes
